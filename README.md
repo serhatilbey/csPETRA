@@ -3,6 +3,8 @@
 Because the data size is too big for github, I uploaded images of the 6 volunteers for different acceleration rates to the following link:
 https://bwsyncandshare.kit.edu/s/TSrtt5EQiifkKPN
 
+Use the 'load' function in Matlab to load 3D images to the workspace.
+
 Please, feel free to contact me, when you have questions:
 
 serhat.ilbey@uniklinik-freiburg.de
